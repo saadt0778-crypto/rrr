@@ -1,0 +1,5 @@
+{
+  "name": "Periodic Table Explorer (Arabic)",
+  "description": "An interactive web application for learning about the first 36 elements of the periodic table, featuring electron configurations, animated Bohr models, audio explanations powered by Gemini, a game, and a quiz. The application is entirely in Arabic.",
+  "requestFramePermissions": []
+}
